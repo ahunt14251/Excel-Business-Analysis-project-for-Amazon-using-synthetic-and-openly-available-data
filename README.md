@@ -1,0 +1,2 @@
+# Excel-Business-Analysis-project-for-Amazon-using-synthetic-and-openly-available-data
+In this Excel file, I performed data cleaning, handled missing values, bootstrapping using percentiles at 0.975, conditional formatting for annual income and purchase amount, anomaly detection using Z-scores, binning and Min-Max transformation for annual income stratification, and finally performed hypothesis testing and visualisations.
